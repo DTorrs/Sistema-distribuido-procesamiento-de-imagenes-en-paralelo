@@ -1,0 +1,6 @@
+grpcio==1.67.1
+grpcio-tools==1.67.1
+protobuf==5.28.3
+Pillow==10.1.0
+requests==2.32.3
+psutil==5.9.6
